@@ -9,6 +9,9 @@ CREATEDB
 CREATEROLE
 ENCRYPTED PASSWORD 'camila';
 
+--Comando para acessar o usuário "camila_domingos".
+\c 'postgres://camila_domingos:camila@localhost/postgres';
+
 --Comando para identificação do usuário.
 SET ROLE camila_domingos; 
 
