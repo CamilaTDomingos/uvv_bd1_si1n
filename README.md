@@ -1,10 +1,10 @@
 # PSET 1 - Banco de Dados I - SI1N
 Projeto de Banco de Dados I - PSET 1
 
-- Nome: Camila Timm Domingos
-- Turma: SI1N
-- Professor: Abrantes Araujo Silva Filho
-- Monitor(a): Suellen Miranda
+- **Nome:** Camila Timm Domingos
+- **Turma:** SI1N
+- **Professor:** Abrantes Araujo Silva Filho
+- **Monitor(a):** Suellen Miranda
 
 ## PSET
 
@@ -14,8 +14,8 @@ Neste PSET, o objetivo foi criar e implementar um Banco de Dados através do Pos
 ## Diretórios
 
 O Projeto se iniciou com a construção do diagrama relacional "Lojas UVV", que pode ser visualizado acessando o arquivo abaixo:
-- [pset1/si1n_202306276_postgresql.architect](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.architect)
-- [pset1/si1n_202306276_postgresql.pdf](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.pdf)
+- **[pset1/si1n_202306276_postgresql.architect](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.architect)**
+- **[pset1/si1n_202306276_postgresql.pdf](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.pdf)**
 
 Com isso, foi possível a geração do script abaixo:
-- [pset1/si1n_202306276_postgresql.sql](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.sql)
+- **[pset1/si1n_202306276_postgresql.sql](https://github.com/CamisTD04/uvv_bd1_si1n/blob/dd2b9803acf2b8f904b8afd7809cc7c673de05c3/pset1/si1n_202306276_postgresql.sql)**
