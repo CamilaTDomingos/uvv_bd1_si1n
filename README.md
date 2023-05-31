@@ -1,4 +1,4 @@
-# uvv_bd1_si1n
+# PSET 1 - Banco de Dados I - SI1N
 Projeto de Banco de Dados I - PSET 1
 
 - Nome: Camila Timm Domingos
